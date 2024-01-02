@@ -199,8 +199,8 @@ a:hover {
 }
 .lead {
   font-weight: 300;
-  font-size: 21px;
-  font-size: 1.3125rem;
+  font-size: 18px;
+  font-size: 1.1rem;
 }
 .text-msg {
   line-height: 1.7em;
@@ -286,6 +286,14 @@ img {
   height: 180px;
   object-fit: scale-down;
 }
+
+#camps{
+  height: 475px;
+}
+#spoc1{
+  height: 240px;
+}
+
 .btn {
   font-size: 12px;
   font-size: 0.75rem;
